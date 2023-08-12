@@ -8,7 +8,7 @@ public class SpringBootGitHubApplication {
 
 	public static void main(String[] args) {
 		System.out.println("Application Start...");
-		System.out.println("Application Start...");
+		System.out.println("GitHub checking branch K..");
 		SpringApplication.run(SpringBootGitHubApplication.class, args);
 	}
 
